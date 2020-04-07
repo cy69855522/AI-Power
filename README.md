@@ -54,7 +54,7 @@ AI动力(AI Power) GPU云平台使用指南
   - 加密文件登录：选择注册时保存的加密文件并输入密码即可
   - 私钥登录：输入私钥即可
 # 📃 使用方法
-1. 下载ssh工具`MobaXterm`，链接：https://share.weiyun.com/5uXo25l(https://share.weiyun.com/5uXo25l) 密码：6ara6j
+1. 下载ssh工具`MobaXterm`，链接：[https://share.weiyun.com/5uXo25l](https://share.weiyun.com/5uXo25l) 密码：6ara6j
 2. 打开🚀`AI Power`网站，点击“机器列表”，等待10秒可用机器列表会先显示出来，然后选择合适的服务器试用或租用。建议一次使用多设置一点时间，时间一到，系统会自动关闭服务器，如果任务提前跑完可以到“我的机器列表”里点击退租，剩下时长会按DBC自动返还到账户里
 - ![](resource/r14.png)
 3. 确认下单
