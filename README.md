@@ -4,9 +4,38 @@ AI动力(AI Power) GPU云平台使用指南
 # 注册
 1. 打开`🚀AI动力`网站[www.aipower.xyz](https://www.aipower.xyz)
 2. 点击“开始租用GPU”
-
-![](resource/r1.png)
-
+- ![](resource/r1.png)
+3. 点击“创建钱包账号”
+- ![](resource/r2.png)
+4. 输入密码，并点击“创建”
+- ![](resource/r3.png)
+5. 下载加密文件并保存，点击“继续”
+- ![](resource/r4.png)
+6. 复制私钥，点击完成
+- ![](resource/r5.png)
+7. 到此账号已注册完毕，接下来可以领取新人奖励。注意一下自己的钱包地址，然后点击“如何购买DBC”
+- ![](resource/r7.png)
+8. 选择第一个，用支付宝充值（绑定邮箱需要账户内至少拥有1个DBC，不足0.01元）
+- ![](resource/r8.png)
+9. 确认自己的DBC钱包收款地址，点击继续
+- ![](resource/r9.png)
+10. 输入想要充值的金额，确保至少价值1DBC，用于之后的邮箱绑定（绑定后可以获得上千DBC的新人奖励），点击“继续”，并用支付宝扫码付款
+- ![](resource/r10.png)
+11. 回到🚀`AI Power`网站，复制钱包地址，然后点击“我的GPU容器”
+- ![](resource/r6.png)
+12. 点击“绑定邮箱”，完成邮箱验证
+- ![](resource/r12.png)
+13. 完成绑定后打开收到的邮件并截图，填写推荐人地址`AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6`，到群里@管理员(微信群/QQ群)发送消息
+- 格式如下：
+  ```python
+  推荐人地址：
+  AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6
+  我的地址：
+  [这里填写自己的钱包地址]
+  [邮箱绑定成功的邮件截图]
+  ```
+- ![](resource/r13.png)
+14. 管理员看到后就会处理，等待即可
 # 登录
 
 # 问题汇总
