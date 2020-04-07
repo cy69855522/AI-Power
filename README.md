@@ -46,7 +46,7 @@ AI动力(AI Power) GPU云平台使用指南
 - ![](resource/r6.png)
 12. 点击“绑定邮箱”，完成邮箱验证
 - ![](resource/r12.png)
-13. 完成绑定后打开收到的邮件并截图，填写推荐人地址`AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6`，到[群](#-AI-Power)里发送消息并@宣传管理员
+13. 完成绑定后打开收到的邮件并截图，填写推荐人地址`AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6`，到[群](#AI-Power)里发送消息并@宣传管理员
   (微信群：@DBC，QQ群：@191279367)([🕹 管理员介绍](#-管理员介绍))，请确保所有信息填写完整（截图内容参考下图）
 - 格式如下：
   ```python
