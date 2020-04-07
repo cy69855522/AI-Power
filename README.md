@@ -1,7 +1,7 @@
 # AI-Power
 AI动力(AI Power) GPU云平台使用指南
 
-# 注册
+# 注册 + 领取新用户奖励
 1. 打开`🚀AI动力`网站[www.aipower.xyz](https://www.aipower.xyz)
 2. 点击“开始租用GPU”
 - ![](resource/r1.png)
@@ -25,7 +25,7 @@ AI动力(AI Power) GPU云平台使用指南
 - ![](resource/r6.png)
 12. 点击“绑定邮箱”，完成邮箱验证
 - ![](resource/r12.png)
-13. 完成绑定后打开收到的邮件并截图，填写推荐人地址`AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6`，到群里@管理员(微信群/QQ群)发送消息
+13. 完成绑定后打开收到的邮件并截图，填写推荐人地址`AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6`，到群里发送消息
 - 格式如下：
   ```python
   推荐人地址：
@@ -36,6 +36,9 @@ AI动力(AI Power) GPU云平台使用指南
   ```
 - ![](resource/r13.png)
 14. 管理员看到后就会处理，等待即可
+  - DBC注册奖励发放管理员：（微信号：DBC-Lee，昵称：DBC）
 # 登录
-
+- 登录账号可使用两种方法：
+  - 加密文件登录：选择注册时保存的加密文件并输入密码即可
+  - 私钥登录：输入私钥即可
 # 问题汇总
