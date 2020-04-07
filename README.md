@@ -1,5 +1,8 @@
 # AI-Power
 AI动力(AI Power) GPU云平台使用指南
+QQ群:`811516112`
+![](AI动力-GPU云平台群聊二维码.png)
+微信群：联系微信号`ly18597591102`加群
 
 # 管理员介绍
 - 注册管理员（微信号：DBC-Lee，微信昵称：DBC）：负责审核/发放注册奖励
@@ -47,20 +50,20 @@ AI动力(AI Power) GPU云平台使用指南
 # 使用方法
 1. 下载ssh工具`MobaXterm`，链接：https://share.weiyun.com/5uXo25l(https://share.weiyun.com/5uXo25l) 密码：6ara6j
 2. 打开🚀`AI Power`网站，点击“机器列表”，等待10秒可用机器列表会先显示出来，然后选择合适的服务器试用或租用
-- ![](r14.png)
+- ![](resource/r14.png)
 3. 确认下单
-- ![](r16.png)
+- ![](resource/r16.png)
 4. 之后会跳转到相应的CPU/GPU容器页面，等待系统检查机器环境
-- ![](r22.png)
+- ![](resource/r22.png)
 5. 等待检查完毕后完成支付，之后会收到一封邮件，包含服务器的账号密码和一些资料
-- ![](r16.png)
+- ![](resource/r16.png)
 6. 打开我们的工具MobaXterm，选择“New session”新建连接
-- ![](r17.png)
+- ![](resource/r17.png)
 7. 输入服务器地址和端口号，最后点击OK
-- ![](r18.png)
+- ![](resource/r18.png)
 8. 输入账号（root）和密码（输入的过程中不会显示任何字符），按回车确定，点击“Yes”
-- ![](r19.png)
+- ![](resource/r19.png)
 9. 成功登录之后就可以正常使用服务器了，左侧可以管理服务器的文件，右侧是终端，输入`python3 文件名.py`即可运行python脚本，已经预装Pytorch、Tensorflow等
-- ![](r21.png)
+- ![](resource/r21.png)
 # 问题汇总
 - 本专栏汇总常见问题的解决方案，请先尝试以下相应的解决方法，如果还是不能解决可以联系技术管理员
