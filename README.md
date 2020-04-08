@@ -27,7 +27,7 @@ AI动力(AI Power) GPU云平台使用指南
 - 技术管理员（微信号：fengbs600220，微信昵称：deepbrainfeng）：负责技术售后
 
 # ✨ 注册与新用户奖励
-1. **打开[`🚀AI动力`](https://www.aipower.xyz)网站 [www.aipower.xyz](https://www.aipower.xyz)**
+1. **用PC端打开[`🚀AI动力`](https://www.aipower.xyz)网站 [www.aipower.xyz](https://www.aipower.xyz)**
 2. 点击“开始租用GPU”
 - ![](resource/r1.png)
 3. 点击“创建钱包账号”
