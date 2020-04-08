@@ -95,4 +95,4 @@ AI动力(AI Power) GPU云平台使用指南
 ## ☄ 如何转账？
 - 打开[🚀`AI Power`](https://www.aipower.xyz)，进入“我的钱包”，在转账框内输入接收方地址和转账金额点击“发送即可”
 ## ☄ 如何提现？
-- 直接进入“[🚀`AI Power`](https://www.aipower.xyz)-我的钱包-如何出售DBC(橙色字体)”，选择支付宝或其他方式充值
+- 直接进入“[🚀`AI Power`](https://www.aipower.xyz)-我的钱包-如何出售DBC(橙色字体)”，选择合适的方式出售
