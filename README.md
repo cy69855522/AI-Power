@@ -4,7 +4,7 @@ AI动力(AI Power) GPU云平台使用指南
 - 微信群：[🖼二维码](resource/微信群.jpg)，如果二维码过期，请联系微信号`ly18597591102`加群
 - 微信公众号：`aipowergpu`，[🖼二维码](resource/公众号.jpg)
 - 如有疑问欢迎发issue，或在群内讨论
-- [知乎介绍文](https://zhuanlan.zhihu.com/p/128161051) | [CSDN介绍文](https://blog.csdn.net/qq_34361099/article/details/105440223)
+- [CSDN介绍文](https://blog.csdn.net/qq_34361099/article/details/105440223)
 
 ## 🎉 常规活动
 - 注：DBC指算力积分，2.4kDBC约等于10元(随时间浮动)，可用于租用算力，也可随时提现
