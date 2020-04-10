@@ -2,7 +2,7 @@
 AI动力(AI Power) GPU云平台使用指南
 - QQ群:`811516112`，[🖼二维码](resource/AI动力-GPU云平台群聊二维码.png)
 - 微信群：[🖼二维码](resource/微信群.png)，如果二维码过期，请联系微信号`ly18597591102`加群
-- 微信公众号：`aipowergpu`，[🖼二维码](resource/公众号.png)
+- 微信公众号：`aipowergpu`，[🖼二维码](resource/公众号.jpg)
 - 如有疑问欢迎发issue，或在群内讨论
 
 ## 🎉 常规活动
