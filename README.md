@@ -96,7 +96,7 @@ AI动力(AI Power) GPU云平台使用指南
 4. 之后会跳转到相应的CPU/GPU容器页面，等待系统检查机器环境
 - ![](resource/r22.png)
 5. 等待检查完毕后完成支付，之后会收到一封邮件，包含服务器的账号密码和一些资料
-- ![](resource/r16.png)
+- ![](resource/r23.png)
 6. 打开我们的工具MobaXterm，选择“New session”新建连接
 - ![](resource/r17.png)
 7. 输入服务器地址和端口号，最后点击OK
