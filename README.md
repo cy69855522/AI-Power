@@ -132,7 +132,7 @@ AI动力(AI Power) GPU云平台使用指南
 ## ☄ Pycharm怎么连接服务器？
 - 只有 Professional 版的 Pycharm 才有 ssh interpreter 功能，详情可以参考[这篇博客](https://blog.csdn.net/YiRanZhiLiPoSui/article/details/81042287)
 # ⚔ 邀请排行榜及绑定总人数统计
-- 👨‍👨‍👧‍👦  当前共有 **43** 位成员
+- 👨‍👨‍👧‍👦  当前共有 **45** 位成员
 
 - 注：邀请时间以绑定后在群上领奖的消息发出时间为准，排行榜奖励规则请参考[四月限时活动](#-4月限时活动)
 - 2020/4/16日 🏹 单日排行榜：
