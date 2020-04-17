@@ -5,7 +5,7 @@
 - If you have any questions, please issue or discuss in the group
 - [🎬 YouTube video]()
 
-## 🎉 Regular Activity
+## 🎉 Regular Activities
 - Tip: DBC is integral and can be used to rent GPUs
 1. New users can get free 💸 2400 DBC, equivalent to 12 to 24 hours RTX2080 (price floating over time). For registration and receiving process, please refer to the following chapters.
 2. You can get 💸2400DBC by inviting a new user, there is no upper limit.
