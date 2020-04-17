@@ -86,7 +86,7 @@
   - Encrypted file login: select the encrypted file saved when registering and enter the password
   - Private key login: enter the private key
 # 📃 Rent
-1. Download SSH tool `MobaXterm`
+1. Download SSH tool [`MobaXterm`](https://drive.google.com/open?id=1RPuF9x20oFYNsfPw03F2wFVmelo1npUr)
 2. Open 🚀`AI Power` website, click “machine llist”, wait about 10 seconds for the list of available machines to be displayed. Then choose one server to trial or rent. It is recommended to set a little more time, when the time is over, the system will automatically shut down the server. If the task runs out in advance, you can go to "my GPU list" and cancel the rental, the rest of the time will be returned to your account by DBC.
 - ![](resource/en/e12.png)
 3. Confirm the order
