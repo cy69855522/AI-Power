@@ -93,7 +93,7 @@
 - ![](resource/en/e13.png)
 4. It will jump to the corresponding CPU/GPU container page and let’s wait for the system to check the machine environment
 - ![](resource/en/e14.png)
-5. Wait for the payment to be completed after the check, let's click “支付(pay)” and then you will receive an email containing the account and password of the server and some information
+5. After the check, let's click “支付(pay)” and then you will receive an email containing the account and password of the server and some information
 - ![](resource/en/e15.png)
 6. Open MobaXterm and select "New session" to create a New connection
 - ![](resource/r17.png)
