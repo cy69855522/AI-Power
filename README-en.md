@@ -66,7 +66,7 @@
 10. Click “Receive email” and you will receive an email with a number, enter the number and click “binding”
 - ![](resource/en/e9.png)
 - ![](resource/en/e10.png)
-11. After binding, open a new received email and take a screenshot. Fill in the referrer's address `AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6`(Fill in the address of your referrer, or this if there is no special referrer. This address does not participate in leaderboard rewards and will not become a competitor)，Send a message to the [group (Click here to join)](#-AI-Power) and @DBC
+11. After binding, open a new received email and take a screenshot. Fill in the referrer's address `AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6`(Fill in the address of your referrer, or this if there is no special referrer. This address does not participate in leaderboard rewards and will not become a competitor). Send a message to the [group (Click here to join)](#-AI-Power) and @DBC
   (WeChat Group：@DBC，QQ Group：@191279367)([🕹 Administrators](#-Administrators)), Please ensure that all information is filled in completely (please refer to the figure below for the screenshot).
 - format：
   ```python
@@ -88,13 +88,13 @@
 # 📃 Rent
 1. Download SSH tool `MobaXterm`
 2. Open 🚀`AI Power` website, click “machine llist”, wait about 10 seconds for the list of available machines to be displayed. Then choose one server to trial or rent. It is recommended to set a little more time, when the time is over, the system will automatically shut down the server. If the task runs out in advance, you can go to "my GPU list" and cancel the rental, the rest of the time will be returned to your account by DBC.
-- ![](resource/r14.png)
+- ![](resource/en/e12.png)
 3. Confirm the order
-- ![](resource/r16.png)
+- ![](resource/en/e13.png)
 4. It will jump to the corresponding CPU/GPU container page and let’s wait for the system to check the machine environment
-- ![](resource/r22.png)
-5. Wait for the payment to be completed after the check, and then you will receive an email containing the account and password of the server and some information
-- ![](resource/r23.png)
+- ![](resource/en/e14.png)
+5. Wait for the payment to be completed after the check, let's click “支付(pay)” and then you will receive an email containing the account and password of the server and some information
+- ![](resource/en/e15.png)
 6. Open MobaXterm and select "New session" to create a New connection
 - ![](resource/r17.png)
 7. Enter the server address and port number, and then click OK
@@ -104,7 +104,7 @@
 9. After successfully logging in, you can use the server normally. You can manage the server files on the left and  there is a terminal on the right. Enter the `server file name .py` to run the python script, which has been preinstalled with Pytorch, Tensorflow, and so on the right. During formal training, it is recommended to use the screen command (`screen -S name`) to create an offline terminal. The training file on the offline terminal is more stable. Even if you exit locally, the server will continue to execute the script. The next time you log in to the server, you can use the command `screen -r -d name` to enter the previously created terminal.
 - ![](resource/r21.png)
 - By configuring `X11-uploding`, you can even write scripts directly in the local graphical interface or display the graphical interface of the server-side software.
-  ![](resource/r24.png)
+- ![](resource/r24.png)
 # 🐛 FAQ
 - This column summarizes solutions to common problems. Please try the following solutions first. If you still can't solve them, please contact the technical administrator ([🕹 Administrators](#-Administrators)).
 - On the PC side, it is recommended to use 【Ctrl】 + 【F】 to locate the problem.
