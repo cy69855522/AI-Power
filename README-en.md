@@ -28,7 +28,7 @@
 - [🕹 Administrators](#-Administrators)
 - [✨ Registration with Rewards](#-Registration-with-Rewards)
 - [🗝 Login](#-Login)
-- [📃 Lease](#-Lease)
+- [📃 Rent](#-Rent)
 - [🐛 FAQ](#-FAQ)
   - [How to monitor GPU?](#-How-to-monitor-GPU)
   - [How to get DBC?](#-How-to-get-DBC)
@@ -88,7 +88,7 @@
 - 登录账号可使用两种方法：
   - 加密文件登录：选择注册时保存的加密文件并输入密码即可
   - 私钥登录：输入私钥即可
-# 📃 Lease
+# 📃 Rent
 1. Download SSH tool `MobaXterm`, link: [https://share.weiyun.com/5uXo25l](https://share.weiyun.com/5uXo25l) password: 6ara6j
 2. Open 🚀`AI Power` website, click “machine llist”, 等待10秒可用机器列表会先显示出来，然后选择合适的服务器试用或租用。建议一次使用多设置一点时间，时间一到，系统会自动关闭服务器，如果任务提前跑完可以到“我的机器列表”里点击退租，剩下时长会按DBC自动返还到账户里
 - ![](resource/r14.png)
@@ -109,30 +109,29 @@
 - 通过配置`X11-forwarding`，甚至可以直接在本地图形化界面编写脚本或显示服务器端软件的图形化界面
   ![](resource/r24.png)
 # 🐛 FAQ
-- 本专栏汇总常见问题的解决方案，请先尝试以下相应的解决方法，如果还是不能解决可以联系技术管理员([🕹 管理员介绍](#-管理员介绍))
-- PC端推荐使用【Ctrl】+【F】进行问题定位
+- This column summarizes solutions to common problems. Please try the following solutions first. If you still can't solve them, please contact the technical administrator ([🕹 Administrators](#-Administrators)).
+- On the PC side, it is recommended to use 【Ctrl】 + 【F】 to locate the problem.
 ## ☄ How to monitor GPU?
 - command: `watch -n 1 nvidia-smi`
 ## ☄ How to get DBC?
-- a. 参与[活动](#-当前活动)免费获得DBC
-- b. 直接进入“[🚀`AI Power`](https://www.aipower.xyz)-我的钱包-如何购买DBC(蓝色字体)”，选择支付宝或其他方式充值
-- c. 在网站的[出租栏](https://www.aipower.xyz/miner/myMachineUnlock)上架闲置的GPU获取收益
-## ☄ 如何转账？
-- 打开[🚀`AI Power`](https://www.aipower.xyz)，进入“我的钱包”，在转账框内输入接收方地址和转账金额点击“发送即可”
-## ☄ 如何出售？
-- 直接进入“[🚀`AI Power`](https://www.aipower.xyz)-我的钱包-如何出售DBC(橙色字体)”，选择合适的方式出售
-## ☄ 如何申请发票？
-- 通过支付宝平台购买DBC是支持开发票的，如有需要可以联系宣传管理员，我们会拉您入群并和财务对接，建议通过微信联系，反馈速度较快
-## ☄ 服务器是什么操作系统？
-- 每个机器的操作系统可能不同，包括Ubuntu16/18/19等，请参考“机器列表”的详细内容
+- a. Take part in the [activities](#-Regular-Activities) to get free DBC.
+- b. Open “[🚀`AI Power`](https://www.aipower.xyz) - My Wallet - How to buy DBC (blue font)” and recharge.
+- c. Open "[Lease GPU](https://www.aipower.xyz/miner/myMachineUnlock)" to get DBC.
+## ☄ How to transfer?
+- Open [🚀`AI Power`](https://www.aipower.xyz), Enter “My Wallet”, Enter the receiver's address and transfer amount in the transfer box and click "send".
+## ☄ How to sell?
+- Open “[🚀`AI Power`](https://www.aipower.xyz) - My Wallet - 如何出售DBC(orange font)”, Choose the right way to sell.
+## ☄ How to apply for invoice?
+- Please contact the promotion administrator, we will dock with the financial staff.
+## ☄ What operating system is the server?
+- The operating system of each machine may be different, including Ubuntu16/18/19, etc. Please refer to "Machine list" for details.
 - ![](resource/机器操作系统.png)
-## ☄ CUDA版本是多少？
-- 一般是10.0，每个机器情况可能不同，可以先通过试用，输入命令`nvcc -V`查看
-## ☄ Pycharm怎么连接服务器？
-- 只有 Professional 版的 Pycharm 才有 ssh interpreter 功能，详情可以参考[这篇博客](https://blog.csdn.net/YiRanZhiLiPoSui/article/details/81042287)
-## ☄ 找不到预置框架？
-- 确认租借的时候选择了需要的框架，如果没有则需要执行命令`pip3 install 框架名`安装一下
-- 请参考[使用方法](#-使用方法)，python命令默认执行pthon2，只有python3预置了框架。执行python文件的时候需要输入`python3 文件名`然后执行
+## ☄ What is the CUDA version?
+- Generally, it is 10.0. The situation of each machine may be different. You can check it through trial first and entering the command `nvcc-V`.
+## ☄ How to use Pycharm to connect to the server?
+- Only Professional version of Pycharm has ssh interpreter function.
+## ☄ Why is there no preset frame?
+- Only python3 has a preset frame. Enter `python3 fileName.py` to run your files. You can use `pip3 install frameName` or upload a wheel to install a frame.
 # ⚔ Ranking List
 - 👨‍👨‍👧‍👦  Currently, there are **48** members.
 
@@ -163,3 +162,4 @@
   |2020/4/15|AHJou...|
   |2020/4/16|AKWNq...|
 # 💫 Propaganda Picture
+- in production
