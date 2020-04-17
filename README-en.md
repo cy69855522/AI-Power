@@ -8,10 +8,10 @@
 ## 🎉 Regular Activity
 - Tip: DBC is integral and can be used to rent GPUs
 1. New users can get free 💸 2400 DBC, equivalent to 12 to 24 hours RTX2080 (price floating over time). For registration and receiving process, please refer to the following chapters.
-2. 💸2400DBC for inviting a new user, no upper limit.
-3. 💸2400DBC for a piece of news(in your Moments or  any other sharing platforms) with 10 supports
-4. 💸2000DBC for a WeChat official account article with a reading volume of 100
-5. If you had invited 10 new users, there is an additional 🤖bluetooth speaker
+2. You can get 💸2400DBC by inviting a new user, there is no upper limit.
+3. You can get 💸2400DBC by releasing a piece of news in your Moments or any other sharing platforms and getting 10 likes
+4. You can get 💸2000DBC by posting a WeChat official account article and getting a reading volume of 100
+5. If you invite 10 new users, there will be an additional 🤖Bluetooth speaker
 
 ## 🔮 Time-limited activities in April
 - Under the joint efforts of everyone, DBC network’s tight supply problem was greatly reduced. The category and quality of machines in the network have been constantly enriched and improved. Next, we will put on a batch of cheap 1080TI/P102 GPUs to meet your needs. Meanwhile, there is a new round of activities:
@@ -31,30 +31,30 @@
 - [📃 Lease](#-Lease)
 - [🐛 FAQ](#-FAQ)
   - [How to monitor GPU?](#-How-to-monitor-GPU)
-  - [如何获得DBC？](#-如何获得DBC)
-  - [如何转账？](#-如何转账)
-  - [如何出售？](#-如何出售)
-  - [如何申请发票？](#-如何申请发票)
-  - [服务器是什么操作系统？](#-服务器是什么操作系统)
-  - [CUDA版本是多少？](#-CUDA版本是多少)
-  - [Pycharm怎么连接服务器？](#-Pycharm怎么连接服务器)
-  - [找不到预置框架？](#-找不到预置框架)
+  - [How to get DBC?](#-How-to-get-DBC)
+  - [How to transfer?](#-How-to-transfer)
+  - [How to sell?](#-How-to-sell)
+  - [How to apply for invoice?](#-How-to-apply-for-invoice)
+  - [What operating system is the server?](#-What-operating-system-is-the-server)
+  - [What is the CUDA version?](#-What-is-the-CUDA-version)
+  - [How to use Pycharm to connect to the server?](#-How-to-use-Pycharm-to-connect-to-the-server)
+  - [Why is there no preset frame?](#-Why-is-there-no-preset-frame)
 - [💫 Propaganda Picture](#-Propaganda-Picture)
 # 🕹 Administrators
 - Promotion Administrator（Wechat ID：DBC-Lee，WeChat nickname：DBC / QQ ID：191279367）：Responsible for reviewing/issuing registration awards
 - Technical Administrator（Wechat ID：fengbs600220，WeChat nickname：deepbrainfeng）：Responsible for technical after-sales service
 
-# ✨ 注册与新用户奖励
-1. **用PC端打开[`🚀AI动力`](https://www.aipower.xyz)网站 [www.aipower.xyz](https://www.aipower.xyz)**
-2. 点击“开始租用GPU”
+# ✨ Registration with Rewards
+1. **Use PC browser to open [`🚀AI Power`](https://www.aipower.xyz) website [www.aipower.xyz](https://www.aipower.xyz)**
+2. Click "start renting GPU"
 - ![](resource/r1.png)
-3. 点击“创建钱包账号”
+3. Click "create wallet account"
 - ![](resource/r2.png)
-4. 输入密码，并点击“创建”
+4. Enter your password and click "create"
 - ![](resource/r3.png)
-5. 下载加密文件并保存，点击“继续”
+5. Download the encrypted file and save it. Click "continue"
 - ![](resource/r4.png)
-6. 复制私钥，点击完成
+6. Copy the private key and click finish
 - ![](resource/r5.png)
 7. 到此账号已注册完毕，接下来可以领取新人奖励。注意一下自己的钱包地址（之后充值后领取奖励会用到），然后点击“如何购买DBC”（若担心隐私可通过邀请人转账跳过充值）
 - ![](resource/r7.png)
@@ -84,13 +84,13 @@
 - ![](resource/r13.png)
 14. 管理员看到后就会处理，确认无误就会赠送2400DBC，等待即可
 15. 获得DBC后请参考[使用方法](#-使用方法)租借GPU，可执行`python3`命令运行脚本，`pip3`安装库
-# 🗝 登录方式
+# 🗝 Login
 - 登录账号可使用两种方法：
   - 加密文件登录：选择注册时保存的加密文件并输入密码即可
   - 私钥登录：输入私钥即可
-# 📃 使用方法
-1. 下载ssh工具`MobaXterm`，链接：[https://share.weiyun.com/5uXo25l](https://share.weiyun.com/5uXo25l) 密码：6ara6j
-2. 打开🚀`AI Power`网站，点击“机器列表”，等待10秒可用机器列表会先显示出来，然后选择合适的服务器试用或租用。建议一次使用多设置一点时间，时间一到，系统会自动关闭服务器，如果任务提前跑完可以到“我的机器列表”里点击退租，剩下时长会按DBC自动返还到账户里
+# 📃 Lease
+1. Download SSH tool `MobaXterm`, link: [https://share.weiyun.com/5uXo25l](https://share.weiyun.com/5uXo25l) password: 6ara6j
+2. Open 🚀`AI Power` website, click “machine llist”, 等待10秒可用机器列表会先显示出来，然后选择合适的服务器试用或租用。建议一次使用多设置一点时间，时间一到，系统会自动关闭服务器，如果任务提前跑完可以到“我的机器列表”里点击退租，剩下时长会按DBC自动返还到账户里
 - ![](resource/r14.png)
 3. 确认下单
 - ![](resource/r16.png)
@@ -108,12 +108,12 @@
 - ![](resource/r21.png)
 - 通过配置`X11-forwarding`，甚至可以直接在本地图形化界面编写脚本或显示服务器端软件的图形化界面
   ![](resource/r24.png)
-# 🐛 问题汇总
+# 🐛 FAQ
 - 本专栏汇总常见问题的解决方案，请先尝试以下相应的解决方法，如果还是不能解决可以联系技术管理员([🕹 管理员介绍](#-管理员介绍))
 - PC端推荐使用【Ctrl】+【F】进行问题定位
-## ☄ 如何监视显存状态？
-- 显存监视命令：`watch -n 1 nvidia-smi`
-## ☄ 如何获得DBC？
+## ☄ How to monitor GPU?
+- command: `watch -n 1 nvidia-smi`
+## ☄ How to get DBC?
 - a. 参与[活动](#-当前活动)免费获得DBC
 - b. 直接进入“[🚀`AI Power`](https://www.aipower.xyz)-我的钱包-如何购买DBC(蓝色字体)”，选择支付宝或其他方式充值
 - c. 在网站的[出租栏](https://www.aipower.xyz/miner/myMachineUnlock)上架闲置的GPU获取收益
