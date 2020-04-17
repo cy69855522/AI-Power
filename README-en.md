@@ -130,26 +130,30 @@
 ## ☄ Why is there no preset frame?
 - Only python3 has a preset frame. Enter `python3 fileName.py` to run your files. You can use `pip3 install frameName` or upload a wheel to install a frame.
 # ⚔ Ranking List
-- 👨‍👨‍👧‍👦  Currently, there are **48** members.
+- 👨‍👨‍👧‍👦  Currently, there are **64** members.
 
-- 2020/4/17日 🏹 One-day ranking：
+- 2020/4/18日 🏹 One-day ranking：
   |Referrer's address|Number of invited persons|  
   |------|---|
-  - `Data update time：2020/4/17 00:25，Please contact group manager for any omission`
+  |AdQcN...|1|
+  - `Data update time：2020/4/18 00:25，Please contact group manager for any omission`
   
 - 🎊 Universal ranking：
   |Referrer's address|Number of invited persons|  
   |------|---|
+  |AUeSs...|7|
+  |ATACW...|5|
   |AdgxR...|5|
   |AHJou...|3|
-  |ATACW...|3|
-  |AKWNq...|2|
+  |AKWNq...|3|
   |AHNoU...|2|
   |AUZub...|2|
   |AcooT...|1|
   |Ac1pK...|1|
   |ANjHp...|1|
   |AKMqD...|1|
+  |AWtBD...|1|
+  |AdQcN...|1|
 
 - Former champions：
   |Date|champions|  
@@ -158,5 +162,6 @@
   |2020/4/14|AdgxR...|
   |2020/4/15|AHJou...|
   |2020/4/16|AKWNq...|
+  |2020/4/17|AUeSs...|
 # 💫 Propaganda Picture
 - in production
