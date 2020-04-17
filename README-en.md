@@ -132,7 +132,7 @@
 # ⚔ Ranking List
 - 👨‍👨‍👧‍👦  Currently, there are **64** members.
 
-- 2020/4/18日 🏹 One-day ranking：
+- 2020/4/18 🏹 One-day ranking：
   |Referrer's address|Number of invited persons|  
   |------|---|
   |AdQcN...|1|
