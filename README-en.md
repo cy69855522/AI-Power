@@ -8,9 +8,9 @@
 ## 🎉 Regular Activities
 - Tip: DBC is integral and can be used to rent GPUs
 1. New users can get free 💸 2400 DBC, equivalent to 12 to 24 hours RTX2080 (price floating over time). For registration and receiving process, please refer to the following chapters.
-2. You can get 💸2400DBC by inviting a new user, there is no upper limit.
-3. You can get 💸2400DBC by releasing a piece of news in your Moments or any other sharing platforms and getting 10 likes
-4. You can get 💸2000DBC by posting a WeChat official account article and getting a reading volume of 100
+2. User can get 💸2400DBC by inviting a new user, there is no upper limit.
+3. User can get 💸2400DBC by releasing a piece of news in your Moments or any other sharing platforms and getting 10 likes
+4. User can get 💸2000DBC by posting a WeChat official account article and getting a reading volume of 100
 5. If you invite 10 new users, there will be an additional 🤖Bluetooth speaker
 
 ## 🔮 Time-limited activities in April
