@@ -48,66 +48,62 @@
 # ✨ Registration with Rewards
 1. **Use PC browser to open [`🚀AI Power`](https://www.aipower.xyz) website [www.aipower.xyz](https://www.aipower.xyz)**
 2. Click "start renting GPU"
-- ![](resource/r1.png)
+- ![](resource/en/e1.png)
 3. Click "create wallet account"
-- ![](resource/r2.png)
+- ![](resource/en/e2.png)
 4. Enter your password and click "create"
-- ![](resource/r3.png)
+- ![](resource/en/e3.png)
 5. Download the encrypted file and save it. Click "continue"
-- ![](resource/r4.png)
-6. Copy the private key and click finish
-- ![](resource/r5.png)
-7. 到此账号已注册完毕，接下来可以领取新人奖励。注意一下自己的钱包地址（之后充值后领取奖励会用到），然后点击“如何购买DBC”（若担心隐私可通过邀请人转账跳过充值）
-- ![](resource/r7.png)
-8. 选择第一个，用支付宝充值（绑定邮箱需要账户内至少拥有1个DBC，不足0.01元，如果担心可以让你的邀请人赠送1DBC，这样就可以跳过充值步骤直接到第11步）
-- ![](resource/r8.png)
-9. 确认自己的DBC钱包收款地址，点击继续
-- ![](resource/r9.png)
-10. 输入想要充值的金额，确保至少价值1DBC，用于之后的邮箱绑定（绑定后可以获得上千DBC的新人奖励），点击“继续”，并用支付宝扫码付款
-- ![](resource/r10.png)
-11. 回到🚀`AI Power`网站，复制钱包地址，然后点击“我的GPU容器”
-- ![](resource/r6.png)
-12. 点击“绑定邮箱”，点击“收邮件”，会收到一份包含DBC数量（类似验证码）的邮件，输入后即可完成邮箱验证
-- ![](resource/r12.png)
-- ![](resource/r25.png)
-13. 完成绑定后打开收到的邮件并截图，填写推荐人地址`AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6`(谁推荐的就填写他的地址，没人推荐的话就填这个，此地址不参与排行榜奖励，不会形成竞争)，到[群（点这里加群）](#-AI-Power)里发送消息并@宣传管理员
-  (微信群：@DBC，QQ群：@191279367)([🕹 管理员介绍](#-管理员介绍))，请确保所有信息填写完整（截图内容参考下图）
-- 格式如下：
+- ![](resource/en/e4.png)
+6. Copy the private key and save it, then click finish
+- ![](resource/en/e5.png)
+7. Click “How to buy DBC” and buy at least 1 DBC (1 DBC less than $0.001. If you are concerned about privacy issues, you can also contact me at WeChat ID ly18597591102, I will give you 1 DBC for free to skip this step.)
+- ![](resource/en/e6.png)
+8. Go back to 🚀`AI Power`, copy your address，and then click “我的GPU容器(My GPU container)”
+- ![](resource/en/e7.png)
+9. Click “Email”
+- ![](resource/en/e8.png)
+10. Click “Receive email” and you will receive an email with a number, enter the number and click “binding”
+- ![](resource/en/e9.png)
+- ![](resource/en/e10.png)
+11. After binding, open a new received email and take a screenshot. Fill in the referrer's address `AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6`(Fill in the address of your referrer, or this if there is no special referrer. This address does not participate in leaderboard rewards and will not become a competitor)，Send a message to the [group (Click here to join)](#-AI-Power) and @DBC
+  (WeChat Group：@DBC，QQ Group：@191279367)([🕹 Administrators](#-Administrators)), Please ensure that all information is filled in completely (please refer to the figure below for the screenshot).
+- format：
   ```python
-  推荐人地址：
+  Referrer's address：
   AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6
-  我的地址：
-  [这里填写自己的钱包地址]
-  [邮箱绑定成功的邮件截图]
-  * 邮件截图须包括收件时间，若担心邮件隐私，可以打码遮挡收件地址
-  * 海外用户请标注一下（海外）
+  My address：
+  [Fill in your wallet address here]
+  [Mail screenshot of successful mailbox binding]
+  * The screenshot of the email should include the receiving time. If you are concerned about the privacy of the message, you can block the receiving address by typing
+  * If you are an international user, please note (international)
   ```
-- ![](resource/r13.png)
-14. 管理员看到后就会处理，确认无误就会赠送2400DBC，等待即可
-15. 获得DBC后请参考[使用方法](#-使用方法)租借GPU，可执行`python3`命令运行脚本，`pip3`安装库
+- ![](resource/en/e11.png)
+12. The administrator will deal with it after seeing it. Just wait
+13. After obtaining DBC, please refer to [📃 Rent](#-Rent). On the server, you can execute 'python3' command to run script, and 'pip3' to install library
 # 🗝 Login
-- 登录账号可使用两种方法：
-  - 加密文件登录：选择注册时保存的加密文件并输入密码即可
-  - 私钥登录：输入私钥即可
+- Two method：
+  - Encrypted file login: select the encrypted file saved when registering and enter the password
+  - Private key login: enter the private key
 # 📃 Rent
-1. Download SSH tool `MobaXterm`, link: [https://share.weiyun.com/5uXo25l](https://share.weiyun.com/5uXo25l) password: 6ara6j
-2. Open 🚀`AI Power` website, click “machine llist”, 等待10秒可用机器列表会先显示出来，然后选择合适的服务器试用或租用。建议一次使用多设置一点时间，时间一到，系统会自动关闭服务器，如果任务提前跑完可以到“我的机器列表”里点击退租，剩下时长会按DBC自动返还到账户里
+1. Download SSH tool `MobaXterm`
+2. Open 🚀`AI Power` website, click “machine llist”, wait about 10 seconds for the list of available machines to be displayed. Then choose one server to trial or rent. It is recommended to set a little more time, when the time is over, the system will automatically shut down the server. If the task runs out in advance, you can go to "my GPU list" and cancel the rental, the rest of the time will be returned to your account by DBC.
 - ![](resource/r14.png)
-3. 确认下单
+3. Confirm the order
 - ![](resource/r16.png)
-4. 之后会跳转到相应的CPU/GPU容器页面，等待系统检查机器环境
+4. It will jump to the corresponding CPU/GPU container page and let’s wait for the system to check the machine environment
 - ![](resource/r22.png)
-5. 等待检查完毕后完成支付，之后会收到一封邮件，包含服务器的账号密码和一些资料
+5. Wait for the payment to be completed after the check, and then you will receive an email containing the account and password of the server and some information
 - ![](resource/r23.png)
-6. 打开我们的工具MobaXterm，选择“New session”新建连接
+6. Open MobaXterm and select "New session" to create a New connection
 - ![](resource/r17.png)
-7. 输入服务器地址和端口号，最后点击OK
+7. Enter the server address and port number, and then click OK
 - ![](resource/r18.png)
-8. 输入账号（root）和密码（输入的过程中不会显示任何字符），按回车确定，点击“Yes”
+8. Enter the account(root) and the password (No characters are displayed during the input). Press enter and click "Yes"
 - ![](resource/r19.png)
-9. 成功登录之后就可以正常使用服务器了，左侧可以管理服务器的文件，右侧是终端，输入`python3 文件名.py`即可运行python脚本，已经预装Pytorch、Tensorflow等。正式训练的时候建议使用screen命令（`screen -S name`）创建离线终端，在离线终端训练文件更加稳定，即使本地退出，服务器也会继续执行脚本。下次登陆服务器后可以使用命令`screen -r -d name`进入之前创建的终端。
+9. After successfully logging in, you can use the server normally. You can manage the server files on the left and  there is a terminal on the right. Enter the `server file name .py` to run the python script, which has been preinstalled with Pytorch, Tensorflow, and so on the right. During formal training, it is recommended to use the screen command (`screen -S name`) to create an offline terminal. The training file on the offline terminal is more stable. Even if you exit locally, the server will continue to execute the script. The next time you log in to the server, you can use the command `screen -r -d name` to enter the previously created terminal.
 - ![](resource/r21.png)
-- 通过配置`X11-forwarding`，甚至可以直接在本地图形化界面编写脚本或显示服务器端软件的图形化界面
+- By configuring `X11-uploding`, you can even write scripts directly in the local graphical interface or display the graphical interface of the server-side software.
   ![](resource/r24.png)
 # 🐛 FAQ
 - This column summarizes solutions to common problems. Please try the following solutions first. If you still can't solve them, please contact the technical administrator ([🕹 Administrators](#-Administrators)).
