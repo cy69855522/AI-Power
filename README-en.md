@@ -1,5 +1,5 @@
 # 🛸 AI-Power 
-- AI Power GPU Cloud Platform Guide, [CN: Switch to Chinese version](README-en.md).
+- AI Power GPU Cloud Platform Guide, [🔄CN: Switch to Chinese version](README.md).
 - QQ group:`811516112`，[🖼 QR code](resource/AI动力-GPU云平台群聊二维码.png)
 - WeChat group：[🖼 QR code](resource/微信群.png)，If the QR code is expired, please contact WeChat ID `ly18597591102` to join the group
 - WeChat Official Account：`aipowergpu`，[🖼 QR code](resource/公众号.jpg)
