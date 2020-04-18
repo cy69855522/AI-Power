@@ -134,17 +134,17 @@
 - `/code`
 - We can use `!pwd` to get the current path.
 # ⚔ Ranking List
-- 👨‍👨‍👧‍👦  Currently, there are **69** members.
+- 👨‍👨‍👧‍👦  Currently, there are **70** members.
 
 - 2020/4/18 🏹 One-day ranking：
   |Referrer's address|Number of invited persons|  
   |------|---|
-  |AHNoU...|2|
+  |AHNoU...|3|
   |AdQcN...|1|
   |AdQcN...|1|
   |ALsVs...|1|
   |AZkXa...|1|
-  - `Data update time：2020/4/18 17:10，Please contact group manager for any omission`
+  - `Data update time：2020/4/18 18:51，Please contact group manager for any omission`
   
 - 🎊 Universal ranking：
   |Referrer's address|Number of invited persons|   
@@ -152,7 +152,7 @@
   |AUeSs...|7|
   |ATACW...|5|
   |AdgxR...|5|
-  |AHNoU...|4|
+  |AHNoU...|5|
   |AHJou...|3|
   |AKWNq...|3|
   |AUZub...|2|
