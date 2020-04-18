@@ -146,7 +146,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   - pytorch1.1版的python3版本默认3.5，python2版本默认2.7。但同时预置了3.67版本的，可以使用命令`conda activate python367`进行激活，`conda deactivate`取消激活
   - pytorch1.4版默认已经激活python3.67，退出激活后python3为3.7版本，python2为2.7版本
 # ⚔ 邀请排行榜及绑定总人数统计
-- 👨‍👨‍👧‍👦  当前共有 **70** 位成员
+- 👨‍👨‍👧‍👦  当前共有 **71** 位成员
 
 - 注：邀请时间以绑定后在群上领奖的消息发出时间为准，排行榜奖励规则请参考[四月限时活动](#-4月限时活动)
 - 2020/4/19日 🏹 单日排行榜：
