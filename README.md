@@ -42,6 +42,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   - [CUDA版本是多少？](#-CUDA版本是多少)
   - [Pycharm怎么连接服务器？](#-Pycharm怎么连接服务器)
   - [找不到预置框架？](#-找不到预置框架)
+  - [Jupyter文件路径在哪？](#-Jupyter文件路径在哪)
 - [💫 宣传参考图](#-宣传参考图)
 # 🕹 管理员介绍
 - 宣传管理员（微信号：DBC-Lee，微信昵称：DBC / QQ号：191279367）：负责审核/发放注册奖励
@@ -136,6 +137,9 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 ## ☄ 找不到预置框架？
 - 确认租借的时候选择了需要的框架，如果没有则需要执行命令`pip3 install 框架名`安装一下
 - 请参考[使用方法](#-使用方法)，python命令默认执行pthon2，只有python3预置了框架。执行python文件的时候需要输入`python3 文件名`然后执行
+## ☄ Jupyter文件路径在哪？
+- `/code`
+- 可以使用命令`!pwd`查看当前路径，其中`!`代表执行终端指令
 # ⚔ 邀请排行榜及绑定总人数统计
 - 👨‍👨‍👧‍👦  当前共有 **69** 位成员
 
