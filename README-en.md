@@ -41,6 +41,7 @@
   - [How to use Pycharm to connect to the server?](#-How-to-use-Pycharm-to-connect-to-the-server)
   - [Why is there no preset frame?](#-Why-is-there-no-preset-frame)
   - [Where is the jupyter file path?](#-Where-is-the-jupyter-file-path)
+  - [What is the python version?](#-What-is-the-python-version)
 - [💫 Propaganda Picture](#-Propaganda-Picture)
 # 🕹 Administrators
 - Promotion Administrator（Wechat ID：DBC-Lee，WeChat nickname：DBC / QQ ID：191279367）：Responsible for reviewing/issuing registration awards
@@ -133,6 +134,10 @@
 ## ☄ Where is the jupyter file path?
 - `/code`
 - We can use `!pwd` to get the current path.
+## ☄ What is the python version?
+- we can choose the mirror when we rent the machine.
+  - for pytorch1.1 version mirror, the default are python3.5 and python2.7. And we can use `conda activate python367` to activate python3.67, and `conda deactivate` to go back.
+  - for pytorch1.4 version mirror, python3.67 has been activated. After deactivating, they are python3.7 and python2.7.
 # ⚔ Ranking List
 - 👨‍👨‍👧‍👦  Currently, there are **70** members.
 
