@@ -40,6 +40,7 @@
   - [What is the CUDA version?](#-What-is-the-CUDA-version)
   - [How to use Pycharm to connect to the server?](#-How-to-use-Pycharm-to-connect-to-the-server)
   - [Why is there no preset frame?](#-Why-is-there-no-preset-frame)
+  - [Where is the jupyter file path?](#-Where-is-the-jupyter-file-path)
 - [💫 Propaganda Picture](#-Propaganda-Picture)
 # 🕹 Administrators
 - Promotion Administrator（Wechat ID：DBC-Lee，WeChat nickname：DBC / QQ ID：191279367）：Responsible for reviewing/issuing registration awards
@@ -129,6 +130,9 @@
 - Only Professional version of Pycharm has ssh interpreter function.
 ## ☄ Why is there no preset frame?
 - Only python3 has a preset frame. Enter `python3 fileName.py` to run your files. You can use `pip3 install frameName` or upload a wheel to install a frame.
+## ☄ Where is the jupyter file path?
+- `/code`
+- We can use `!pwd` to get the current path.
 # ⚔ Ranking List
 - 👨‍👨‍👧‍👦  Currently, there are **69** members.
 
