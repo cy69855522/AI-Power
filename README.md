@@ -43,7 +43,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   - [Pycharm怎么连接服务器？](#-Pycharm怎么连接服务器)
   - [找不到预置框架？](#-找不到预置框架)
   - [Jupyter文件路径在哪？](#-Jupyter文件路径在哪)
-  - [服务器上的Python哪个版本？](#-服务器上的Python哪个版本)
+  - [服务器上的Python是哪个版本？](#-服务器上的Python是哪个版本)
 - [💫 宣传参考图](#-宣传参考图)
 # 🕹 管理员介绍
 - 宣传管理员（微信号：DBC-Lee，微信昵称：DBC / QQ号：191279367）：负责审核/发放注册奖励
@@ -141,7 +141,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 ## ☄ Jupyter文件路径在哪？
 - `/code`
 - 可以使用命令`!pwd`查看当前路径，其中`!`代表执行终端指令
-## ☄ 服务器上的Python哪个版本？
+## ☄ 服务器上的Python是哪个版本？
 - 在租用服务器的时候可以选择镜像
   - pytorch1.1版的python3版本默认3.5，python2版本默认2.7。但同时预置了3.67版本的，可以使用命令`conda activate python367`进行激活，`conda deactivate`取消激活
   - pytorch1.4版默认已经激活python3.67，退出激活后python3为3.7版本，python2为2.7版本
@@ -149,14 +149,11 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - 👨‍👨‍👧‍👦  当前共有 **70** 位成员
 
 - 注：邀请时间以绑定后在群上领奖的消息发出时间为准，排行榜奖励规则请参考[四月限时活动](#-4月限时活动)
-- 2020/4/18日 🏹 单日排行榜：
+- 2020/4/19日 🏹 单日排行榜：
   |推荐人地址|已邀请人数| 
   |------|---| 
-  |AHNoU...|3|
   |AdQcN...|1|
-  |ALsVs...|1|
-  |AZkXa...|1|
-  - `更新时间：2020/4/18 18:51，如有遗漏请联系群主修改`
+  - `更新时间：2020/4/19 01:11，如有遗漏请联系群主修改`
   
 - 🎊 总排行榜：
   |推荐人地址|已邀请人数|  
@@ -168,12 +165,12 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   |AHJou...|3|
   |AKWNq...|3|
   |AUZub...|2|
+  |AdQcN...|2|
   |AcooT...|1|
   |Ac1pK...|1|
   |ANjHp...|1|
   |AKMqD...|1|
   |AWtBD...|1|
-  |AdQcN...|1|
   |ALsVs...|1|
   |AZkXa...|1|
 
@@ -185,5 +182,6 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   |2020/4/15|AHJou...|
   |2020/4/16|AKWNq...|
   |2020/4/17|AUeSs...|
+  |2020/4/18|AHNoU...|
 # 💫 宣传参考图
 ![](resource/宣传参考图.jpg)
