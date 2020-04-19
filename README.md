@@ -146,19 +146,19 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   - pytorch1.1版的python3版本默认3.5，python2版本默认2.7。但同时预置了3.67版本的，可以使用命令`conda activate python367`进行激活，`conda deactivate`取消激活
   - pytorch1.4版默认已经激活python3.67，退出激活后python3为3.7版本，python2为2.7版本
 # ⚔ 邀请排行榜及绑定总人数统计
-- 👨‍👨‍👧‍👦  当前共有 **71** 位成员
+- 👨‍👨‍👧‍👦  当前共有 **78** 位成员
 
 - 注：邀请时间以绑定后在群上领奖的消息发出时间为准，排行榜奖励规则请参考[四月限时活动](#-4月限时活动)
-- 2020/4/19日 🏹 单日排行榜：
+- 2020/4/20日 🏹 单日排行榜：
   |推荐人地址|已邀请人数| 
   |------|---| 
-  |AdQcN...|1|
-  - `更新时间：2020/4/19 01:11，如有遗漏请联系群主修改`
+  |ARHJu...|1|
+  - `更新时间：2020/4/20 00:37，如有遗漏请联系群主修改`
   
 - 🎊 总排行榜：
   |推荐人地址|已邀请人数|  
   |------|---|
-  |AUeSs...|7|
+  |AUeSs...|8|
   |ATACW...|5|
   |AdgxR...|5|
   |AHNoU...|5|
@@ -166,13 +166,16 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   |AKWNq...|3|
   |AUZub...|2|
   |AdQcN...|2|
+  |AZkXa...|2|
   |AcooT...|1|
   |Ac1pK...|1|
   |ANjHp...|1|
   |AKMqD...|1|
   |AWtBD...|1|
   |ALsVs...|1|
-  |AZkXa...|1|
+  |ALkYH...|1|
+  |AZAh5...|1|
+  |ARHJu...|1|
 
 - 往期排行榜首：
   |日期|榜首|  
@@ -183,5 +186,6 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   |2020/4/16|AKWNq...|
   |2020/4/17|AUeSs...|
   |2020/4/18|AHNoU...|
+  |2020/4/19|AdQcN.../ALkYH.../AUeSs.../AZkXa.../AZAh5...|
 # 💫 宣传参考图
 ![](resource/宣传参考图.jpg)
