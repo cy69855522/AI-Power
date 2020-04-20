@@ -32,7 +32,7 @@
   - [Why is there no preset frame?](#-Why-is-there-no-preset-frame)
   - [Where is the jupyter file path?](#-Where-is-the-jupyter-file-path)
   - [What is the python version?](#-What-is-the-python-version)
-  - [How to forward server port for tensorboard/jupyter, etc?](How-to-forward-server-port-for-tensorboardjupyteretc)
+  - [How to forward server port for tensorboard/jupyter, etc?](#-How-to-forward-server-port-for-tensorboardjupyter-etc)
 - [💫 Propaganda Picture](#-Propaganda-Picture)
 # 🕹 Administrators
 - Promotion Administrator（Wechat ID：DBC-Lee，WeChat nickname：DBC / QQ ID：191279367）：Responsible for reviewing/issuing registration awards
