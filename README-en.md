@@ -32,7 +32,7 @@
   - [Why is there no preset frame?](#-Why-is-there-no-preset-frame)
   - [Where is the jupyter file path?](#-Where-is-the-jupyter-file-path)
   - [What is the python version?](#-What-is-the-python-version)
-  - [How to forward server port for tensorboard/jupyter, etc?](#-How-to-forward-server-port-for-tensorboardjupyter,-etc)
+  - [How to forward server port for tensorboard/jupyter, etc?](#-How-to-forward-server-port-for-tensorboardjupyter-etc)
 - [💫 Propaganda Picture](#-Propaganda-Picture)
 # 🕹 Administrators
 - Promotion Administrator（Wechat ID：DBC-Lee，WeChat nickname：DBC / QQ ID：191279367）：Responsible for reviewing/issuing registration awards
@@ -129,7 +129,7 @@
 - We can choose the mirror when we rent the machine.
   - For pytorch1.1 version mirror, the default are python3.5 and python2.7. And we can use `conda activate python367` to activate python3.67, and `conda deactivate` to go back.
   - For pytorch1.4 version mirror, python3.67 has been activated. After deactivating, they are python3.7 and python2.7.
-## How to forward server port for tensorboard/jupyter, etc?
+## ☄ How to forward server port for tensorboard/jupyter, etc?
 - Method 1. Configure the x11-forwarding to forward server GUI, and then launch the browser on the server.
 - Method 2
   - Open mobaXterm's tunnel
