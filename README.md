@@ -45,7 +45,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   - [Jupyter文件路径在哪？](#-Jupyter文件路径在哪)
   - [服务器上的Python是哪个版本？](#-服务器上的Python是哪个版本)
   - [如何切换jupyter的python内核？](#-如何切换jupyter的python内核)
-  - [如何设置服务器端口转发，用于tensorboard等？](#-如何设置服务器端口转发用于tensorboard等)
+  - [如何设置服务器端口转发，用于tensorboard/jupyter页面等？](#-如何设置服务器端口转发用于tensorboardjupyter页面等)
 - [💫 宣传参考图](#-宣传参考图)
 # 🕹 管理员介绍
 - 宣传管理员（微信号：DBC-Lee，微信昵称：DBC / QQ号：191279367）：负责审核/发放注册奖励
@@ -147,12 +147,16 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - 在租用服务器的时候可以选择镜像
   - pytorch1.1版的python3版本默认3.5，python2版本默认2.7。但同时预置了3.67版本的，可以使用命令`conda activate python367`进行激活，`conda deactivate`取消激活
   - pytorch1.4版默认已经激活python3.67，退出激活后python3为3.7版本，python2为2.7版本
-## ☄ 如何设置服务器端口转发，用于tensorboard等？
+## ☄ 如何设置服务器端口转发，用于tensorboard/jupyter页面等？
 - 方法一：
-  - 直接跳过设置x11-forwarding转发服务器的图形界面
+  - 直接通过设置x11-forwarding转发服务器的图形界面
 - 方法二：
   - 打开MobaXterm的Tunnel
+  - ![](resource/r26.png)
   - 输入服务器的登录信息还有需要转发的服务器端口和本地的接收端口
+  - ![](resource/r27.png)
+  - 启动端口转发
+  - ![](resource/r28.png)
   - 在本地用浏览器打开对应端口即可
 ## ☄ 如何切换jupyter的python内核？
 - 请参考群文件的“[设置jupyter与base环境一致.doc](resource/设置jupyter与base环境一致.doc)”
