@@ -6,7 +6,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - 如有疑问欢迎发issue，或在群内讨论
 - [📕 CSDN介绍文](https://blog.csdn.net/qq_34361099/article/details/105440223) | [📺 bilibili视频介绍及租用演示](https://www.bilibili.com/video/BV1QK411V7nv)
 
-## 🎉 常规活动
+## 🎉 福利活动
 - 注：DBC指算力积分，可用于租用算力
 1. 现在注册即可获得💎2400DBC，等价于12至24小时RTX2080（价格随时间浮动），注册及领取流程请参考以下章节
 2. 邀请新用户，邀请人和被邀请人均可获得💎2400DBC
