@@ -156,19 +156,19 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   |推荐人地址|已邀请人数| 
   |------|---| 
   |ARHJu...|1|
-  - `更新时间：2020/4/20 00:37，如有遗漏请联系群主修改`
+  - `更新时间：2020/4/21 00:37，如有遗漏请联系群主修改`
   
 - 🎊 总排行榜：
   |推荐人地址|已邀请人数|  
   |------|---|
-  |AUeSs...|8|
-  |ATACW...|5|
+  |AUeSs...|9|
+  |ATACW...|8|
   |AdgxR...|5|
   |AHNoU...|5|
   |AHJou...|3|
-  |AKWNq...|3|
+  |AKWNq...|5|
   |AUZub...|2|
-  |AdQcN...|2|
+  |AdQcN...|6|
   |AZkXa...|2|
   |AcooT...|1|
   |Ac1pK...|1|
@@ -178,7 +178,8 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   |ALsVs...|1|
   |ALkYH...|1|
   |AZAh5...|1|
-  |ARHJu...|1|
+  |ARHJu...|2|
+  |AYp3M...|1|
 
 - 往期排行榜首：
   |日期|榜首|  
