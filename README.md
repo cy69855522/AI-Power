@@ -36,8 +36,8 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   - [如何设置服务器端口转发，用于tensorboard/jupyter页面等？](#-如何设置服务器端口转发用于tensorboardjupyter页面等)
 - [💫 宣传参考图](#-宣传参考图)
 # 🕹 管理员介绍
-- 宣传管理员（微信号：DBC-Lee，微信昵称：DBC / QQ号：191279367）：负责审核/发放注册奖励
-- 技术管理员（微信号：fengbs600220，微信昵称：deepbrainfeng）：负责技术售后
+- 宣传管理员（微信号：DBC-Lee，微信昵称：DBC / QQ号：191279367，Q群昵称：宣传管理）：负责审核/发放注册奖励
+- 技术管理员（微信号：fengbs600220，微信昵称：deepbrainfeng / QQ号：313785443，Q群昵称：技术管理）：负责技术售后
 
 # ✨ 注册与新用户奖励
 1. **用PC端打开[`🚀AI动力`](https://www.aipower.xyz)网站 [www.aipower.xyz](https://www.aipower.xyz)**
