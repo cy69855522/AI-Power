@@ -36,6 +36,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   - [服务器上的Python是哪个版本？](#-服务器上的Python是哪个版本)
   - [如何切换jupyter的python内核？](#-如何切换jupyter的python内核)
   - [如何设置服务器端口转发，用于tensorboard/jupyter页面等？](#-如何设置服务器端口转发用于tensorboardjupyter页面等)
+  - [故障赔付？](#-故障赔付)
 - [💫 宣传参考图](#-宣传参考图)
 # 🕹 管理员介绍
 - 宣传管理员（微信号：DBC-Lee，微信昵称：DBC / QQ号：191279367，Q群昵称：宣传管理）：负责审核/发放注册奖励
@@ -152,6 +153,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   - 在本地用浏览器打开对应端口即可
 ## ☄ 如何切换jupyter的python内核？
 - 请参考群文件的“[设置jupyter与base环境一致.doc](resource/设置jupyter与base环境一致.doc)”
-
+## ☄ 故障赔付？
+- 关于服务器售后，机器使用过程中万一出现中断故障等极个别情况，请重启后检查数据是否丢失。若数据丢失，可发订单截图和钱包地址以及损失的DBC数量领取赔偿。144小时内断开连接损失全额赔付。首先还是要建议大家科学使用，只有属于平台方的原因才会赔付。
 # 💫 宣传参考图
 ![](resource/宣传参考图.jpg)
