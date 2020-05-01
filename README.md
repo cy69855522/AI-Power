@@ -17,7 +17,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 7. 参与[知乎推广文章](https://zhuanlan.zhihu.com/p/128161051)点赞与评论可获得💎1000DBC
 8. 参与[YouTube推广视频](https://www.youtube.com/watch?v=zMdAmQf4iuc)点赞与评论可获得💎2000DBC，墙内用户可能无法访问
 
-## 🎈 五月回馈活动
+## 🎈 五月限时活动
 1. 老用户返利活动：用的越多，奖励越多！自注册以来DBC使用量达到一定标准可获得DBC奖励~
   - |累计使用DBC|奖励💎DBC|
     |---|---|
