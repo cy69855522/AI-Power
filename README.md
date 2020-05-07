@@ -123,7 +123,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - ![](resource/r19.png)
 9. 成功登录之后就可以正常使用服务器了，左侧可以管理服务器的文件，右侧是终端，输入`python3 文件名.py`即可运行python脚本，已经预装Pytorch、Tensorflow等。正式训练的时候建议使用screen命令（`screen -S name`）创建离线终端，在离线终端训练文件更加稳定，即使本地退出，服务器也会继续执行脚本。下次登陆服务器后可以使用命令`screen -r -d name`进入之前创建的终端。
 - ![](resource/r21.png)
-- 通过配置`X11-forwarding`，甚至可以直接在本地图形化界面编写脚本或显示服务器端软件的图形化界面
+- 通过配置`X11-forwarding`，甚至可以直接在本地图形化界面编写脚本或显示服务器端软件的图形化界面，具体操作可参考[这篇公众号文章](https://mp.weixin.qq.com/s?__biz=MzU4OTYwODQ0NQ==&mid=2247483767&idx=1&sn=2d63e526146ccca3a6672e7713a8feb2&chksm=fdcba5e5cabc2cf3b06432a32dcb1f9824b4e5bea082b5bc2dd46c2413e6f719637aad4ae397&mpshare=1&scene=23&srcid=&sharer_sharetime=1588830034150&sharer_shareid=e8efbc9321770363ac04fcab1ca67c24#rd)
   ![](resource/r24.png)
 # 🐛 问题汇总
 - 本专栏汇总常见问题的解决方案，请先尝试以下相应的解决方法，如果还是不能解决可以联系技术管理员([🕹 管理员介绍](#-管理员介绍))
