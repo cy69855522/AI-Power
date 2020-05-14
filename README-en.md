@@ -14,22 +14,6 @@
 4. User can get 💸2000DBC by posting a WeChat official account article and getting a reading volume of 100.
 5. If you invite 10 new users, there will be an additional 🤖Bluetooth speaker.
 6. User can get 💸2000DBC by thumbing up and commenting on the [YouTube video](https://www.youtube.com/watch?v=zMdAmQf4iuc).
-## 🎈 May Activities
-1. Old users rebate activity: the more you use, the more reward! Users can get free DBC if they use up to a certain amount since registration.
-  - |Cumulative usage|💎DBC|
-    |---|---|
-    |10-20 thousand|500DBC|
-    |20-30 thousand|1000DBC|
-    |30-50 thousand|2000DBC|
-    |50-100 thousand|4000DBC|
-    |100-200 thousand|8000DBC|
-    |200-500 thousand|20000DBC|
-    |500-1000 thousand|40000DBC|
-    |More than 1 million|100000DBC|
-2. 50-100 1080Ti/p102 flash sale. Each GPU's price is as low as about 10 cent, first come  first served.
-3. New user: 💎5000DBC
-4. Inviting a new user who needs GPU: 💎3000DBC, no more than 10 times
-- ⏱ Activity Time：2020.5.6 10:00 ~ 2020.5.13 22:00
 
 # Catalogue
 - [🕹 Administrators](#-Administrators)
