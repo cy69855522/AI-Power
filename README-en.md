@@ -33,6 +33,9 @@
   - [Where is the jupyter file path?](#-Where-is-the-jupyter-file-path)
   - [What is the python version?](#-What-is-the-python-version)
   - [How to forward server port for tensorboard/jupyter, etc?](#-How-to-forward-server-port-for-tensorboardjupyter-etc)
+  - [How to transfer files?](#-How-to-transfer-files)
+  - [Will the data be saved after expiration?](#-Will-the-data-be-saved-after-expiration)
+  - [What are the charging rules?](#-What-are-the-charging-rules)
 - [💫 Propaganda Picture](#-Propaganda-Picture)
 # 🕹 Administrators
 - Promotion Administrator（Wechat ID：DBC-Lee，WeChat nickname：DBC / QQ ID：191279367）：Responsible for reviewing/issuing registration awards
@@ -138,6 +141,15 @@
   - Start it
   - ![](resource/r28.png)
   - Open recived port on your local browser, for example: `127.0.0.1:6006`.
+## ☄ How to transfer files?
+- For small files, you can transfer them through the left graphical interface of the MobaXterm.
+- For large files, it is recommended to transfer through the private network disk provided in the email you receive at the time of rental, which is fast.
+## ☄ Will the data be saved after expiration?
+- When the lease expires, the container will be deactivated. If your wallet balance is less than 20000DBC, the container will be destroyed immediately. If your wallet balance exceeds 20000DBC, all data will be automatically retained for 7 days (the wallet balance must also exceed 20000DBC during this period).
+- In addition, data can be saved by renting the CPU container, and no charge will be incurred by pledging DBC, but the charge will be charged by renting it.
+## ☄ What are the charging rules?
+- The price of each machine is different, so it is recommended to choose the most cost-effective one.
+- You can withdraw the rental in advance, only the actual fees will be charged, and the remaining fees will be returned to your wallet.
 
 # 💫 Propaganda Picture
 - in production
