@@ -16,6 +16,12 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 6. 参与[B站推广视频](https://www.bilibili.com/video/BV1QK411V7nv)点赞与评论可获得💎1000DBC
 7. 参与[知乎推广文章](https://zhuanlan.zhihu.com/p/128161051)点赞与评论可获得💎1000DBC
 8. 参与[YouTube推广视频](https://www.youtube.com/watch?v=zMdAmQf4iuc)点赞与评论可获得💎2000DBC，墙内用户可能无法访问
+### 注册与邀请奖励调整预告
+- ⏱ 调整将于2020.5.18 10:00 生效
+1、新用户补贴:补贴由每人2400DBC高到3000DBC
+- 补贴方式:先充值1000DBC ,送1000DBC,一周内用完2000DBC ,送剩余2000DBC ;如果没用完按照实际用的比例返还,比如一内用了1000DBC,送1000DBC ;
+2、推荐用户奖励:奖励由每人2400DBC提高到3000DBC
+- 奖励方式:先奖励1000BC ,被邀请用户一周内用完2000DBC ,送剩余2000DBC ;如果没用完按照实际用的比例返还,比如一内用了1000DBC,送1000DBC ;
 
 # 目录
 - [🕹 管理员介绍](#-管理员介绍)
