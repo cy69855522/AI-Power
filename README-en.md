@@ -118,7 +118,7 @@
 - Please contact the promotion administrator, we will dock with the financial staff.
 ## ☄ What operating system is the server?
 - The operating system of each machine may be different, including Ubuntu16/18/19, etc. Please refer to "Machine list" for details.
-- ![](resource/机器操作系统.png)
+- ![](resource/en/e17.png)
 ## ☄ What is the CUDA version?
 - Generally, it is 10.0. The situation of each machine may be different. You can check it through trial first and entering the command `nvcc-V`.
 ## ☄ How to use Pycharm to connect to the server?
