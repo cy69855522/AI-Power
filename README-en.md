@@ -8,12 +8,12 @@
 
 ## 🎉 Regular Activities
 - Tip: DBC is integral and can be used to rent GPUs
-1. New users can get free 💸 2400 DBC, equivalent to 12 to 24 hours RTX2080 (price floating over time). For registration and receiving process, please refer to the following chapters.
-2. User can get 💸2400DBC by inviting a new user, there is no upper limit.
-3. User can get 💸2400DBC by releasing a piece of news in your Moments or any other sharing platforms and getting 10 likes.
-4. User can get 💸2000DBC by posting a WeChat official account article and getting a reading volume of 100.
-5. If you invite 10 new users, there will be an additional 🤖Bluetooth speaker.
-6. User can get 💸2000DBC by thumbing up and commenting on the [YouTube video](https://www.youtube.com/watch?v=zMdAmQf4iuc).
+1. New users can get free 💎1000 DBC, and if the usage reaches 1000 DBC in first week, you can get an additional 💎2000 DBC, totally equivalent to 20 ~ 30 hours P102/1080ti (price floating over time). For registration and receiving process, please refer to the following chapters. (**Double** the international user rewards, please contact group manager)
+2. User can get 💎1000 DBC by inviting a new user, and if the usage of new user reaches 1000 DBC in first week, you can get an additional 💎2000 DBC. (**Double** the international user rewards, please contact group manager)
+3. User can get 💎2400 DBC by releasing a piece of news in your Moments or any other sharing platforms and getting 10 likes.
+4. User can get 💎2000 DBC by posting a WeChat official account article and getting a reading volume of 100.
+5. If you invite 10 new users, there will be an additional 🎼Bluetooth speaker.
+6. User can get 💎2000 DBC by thumbing up and commenting on the [YouTube video](https://www.youtube.com/watch?v=zMdAmQf4iuc).
 
 # Catalogue
 - [🕹 Administrators](#-Administrators)
@@ -53,30 +53,30 @@
 - ![](resource/en/e4.png)
 6. Copy the private key and save it, then click finish
 - ![](resource/en/e5.png)
-7. Click “How to buy DBC” and buy at least 1 DBC (1 DBC less than $0.001. If you are concerned about privacy issues, you can also contact me at WeChat ID ly18597591102, I will give you 1 DBC for free to skip this step.)
+7. Click “How to buy DBC” and buy at least $0.15 to bind the mailbox
 - ![](resource/en/e6.png)
-8. Go back to 🚀`AI Power`, copy your address，and then click “我的GPU容器(My GPU container)”
+8. Go back to 🚀`AI Power`, copy your address，and then click “我的GPU容器(My GPU container)” (The DBC you just topped up will arrive in a few minutes)
 - ![](resource/en/e7.png)
 9. Click “Email”
 - ![](resource/en/e8.png)
 10. Click “Receive email” and you will receive an email with a number, enter the number and click “binding”
 - ![](resource/en/e9.png)
 - ![](resource/en/e10.png)
-11. After binding, open a new received email and take a screenshot. Fill in the referrer's address `AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6`(Fill in the address of your referrer, or this if there is no special referrer. This address does not participate in leaderboard rewards and will not become a competitor). Send a message to the [group (Click here to join)](#-AI-Power) and @DBC
+11. After binding, Fill in the referrer's address (Fill in the address of your referrer, or skip this if there is no special referrer), your wallet address and the screenshot. Send a message to the [group (Click here to join)](#-AI-Power) and @DBC
   (WeChat Group：@DBC，QQ Group：@191279367)([🕹 Administrators](#-Administrators)), Please ensure that all information is filled in completely (please refer to the figure below for the screenshot).
 - format：
   ```python
   Referrer's address：
-  AeiBc1hjnCxhFhS7bujHuathgzot8ztQb6
+  
   My address：
-  [Fill in your wallet address here]
-  [Mail screenshot of successful mailbox binding]
-  * The screenshot of the email should include the receiving time. If you are concerned about the privacy of the message, you can block the receiving address by typing
-  * If you are an international user, please note (international)
+  
+  [screenshot of your wallet]
+  * If you are an international user, please contact the group manager to get double rewards.
   ```
-- ![](resource/en/e11.png)
-12. The administrator will deal with it after seeing it. Just wait
+- ![](resource/en/e16.png)
+12. The administrator will deal with it after seeing it. Normally within one day, please wait
 13. After obtaining DBC, please refer to [📃 Rent](#-Rent). On the server, you can execute 'python3' command to run script, and 'pip3' to install library
+14. If your DBC usage for the first week is no less than 1000, you can send the order and balance screenshots to the group and @dbc to get more free DBC
 # 🗝 Login
 - Two method：
   - Encrypted file login: select the encrypted file saved when registering and enter the password
