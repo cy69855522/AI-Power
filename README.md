@@ -66,7 +66,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - ![](resource/r9.png)
 10. 输入充值金额**≥1元**，用于之后的邮箱绑定（绑定后可以获得**上千DBC的新人奖励**），点击“继续”，并用支付宝支付
 - ![](resource/r33.png)
-11. 回到🚀`AI Power`网站，复制钱包地址，然后点击“我的GPU容器”
+11. 回到🚀`AI Power`网站，复制钱包地址，然后点击“我的GPU容器”。（充值的DBC会在几分钟内到账）
 - ![](resource/r6.png)
 12. 点击“绑定邮箱”，点击“收邮件”，会收到一份包含DBC数量（类似验证码）的邮件，输入后即可完成邮箱验证
 - ![](resource/r12.png)
