@@ -46,7 +46,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - 技术管理员（微信号：fengbs600220，微信昵称：deepbrainfeng / QQ号：313785443，Q群昵称：技术管理）：负责技术售后
 
 # ✨ 注册与新用户奖励
-**`注意：下面的教程都是有图片的，如果看不到说明配置有问题，请参考`[这篇博客](https://blog.csdn.net/qq_38232598/article/details/91346392)`修复`**
+**`注意：下面的教程都是有图片的，如果看不到说明你的网络配置有问题，请参考`[这篇博客](https://blog.csdn.net/qq_38232598/article/details/91346392)`修复`**
 1. **用PC端打开[`🚀AI动力`](https://www.aipower.xyz)网站 [www.aipower.xyz](https://www.aipower.xyz)**
 2. 点击“开始租用GPU”
 - ![](resource/r1.png)
