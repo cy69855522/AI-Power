@@ -53,7 +53,7 @@
 - ![](resource/en/e4.png)
 6. Copy the private key and save it, then click finish
 - ![](resource/en/e5.png)
-7. Click “How to buy DBC” and buy at least $0.15 to bind the mailbox
+7. Click “How to buy DBC” and buy at least $0.15 to bind the mailbox. If you have alipay, you can also switch the language to Chinese by clicking the button in the top right corner and then pay with alipay
 - ![](resource/en/e6.png)
 8. Go back to 🚀`AI Power`, copy your address，and then click “我的GPU容器(My GPU container)” (The DBC you just topped up will arrive in a few minutes)
 - ![](resource/en/e7.png)
