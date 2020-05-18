@@ -7,7 +7,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - [📕 CSDN介绍文](https://blog.csdn.net/qq_34361099/article/details/105440223) | [📺 bilibili视频介绍及租用演示](https://www.bilibili.com/video/BV1QK411V7nv) | [📮 知乎介绍文](https://zhuanlan.zhihu.com/p/128161051)
 
 ## 🎉 长期福利活动
-- 注：DBC指算力积分，可用于租用算力。新用户奖励总计3000DBC，约等价于 20+ ~ 30+ 小时 P102/1080ti/RTX2080 算力（价格随时间浮动）
+- 注：DBC指算力积分，可用于租用算力。新用户奖励总计3000DBC，约等价于20~30+小时P102/1080ti/RTX2080算力（价格随时间浮动）
 1. 注册并绑定邮箱即可获得💎1000DBC，首周DBC使用量达1000DBC, 再送💎2000DBC，注册及领取流程请参考以下[ ✨ 注册与新用户奖励领取流程](#-注册与新用户奖励)
 2. 邀请新用户可获得💎1000DBC，新用户首周DBC使用量达1000DBC, 邀请奖励追加💎2000DBC，海外用户奖励翻倍（海外用户请联系群主）
 3. 转发朋友圈或QQ空间并获得10赞或以上，奖励💎2400DBC
