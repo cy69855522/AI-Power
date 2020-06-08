@@ -4,7 +4,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - 微信群：[🖼二维码](resource/微信群.png)，如果二维码过期，请联系微信号`ly18597591102`加群
 - 微信公众号：`aipowergpu`，[🖼二维码](resource/公众号.jpg)
 - 如有疑问欢迎发issue，或在群内讨论
-- `🍳 注意：下面的教程都是有图片的，如果`**`看不到Github的图片`**`说明你的网络配置有问题，请参考`[这篇博客]`修复一下~`
+- `🍳 注意：下面的教程都是有图片的，如果`**`看不到Github的图片`**`说明你的网络配置有问题，请参考`[这篇博客](https://blog.csdn.net/qq_38232598/article/details/91346392)`修复一下~`
 - [📕 CSDN介绍文](https://blog.csdn.net/qq_34361099/article/details/105440223) | [📺 bilibili视频介绍及租用演示](https://www.bilibili.com/video/BV1QK411V7nv) | [📮 知乎介绍文](https://zhuanlan.zhihu.com/p/128161051)
 
 ## 🎉 长期福利活动
