@@ -6,6 +6,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - 如有疑问欢迎发issue，或在群内讨论
 - `🍳 注意：下面的教程都是有图片的，如果`**`看不到Github的图片`**`说明你的网络配置有问题，请参考`[这篇博客](https://blog.csdn.net/qq_38232598/article/details/91346392)`修复一下~`
 - [📕 CSDN介绍文](https://blog.csdn.net/qq_34361099/article/details/105440223) | [📺 bilibili视频介绍及租用演示](https://www.bilibili.com/video/BV1QK411V7nv) | [📮 知乎介绍文](https://zhuanlan.zhihu.com/p/128161051)
+- [✨ **新用户注册与奖励领取流程，戳这里~**](#-注册与新用户奖励)
 
 ## 🎉 长期福利活动
 - 注：DBC指算力积分，可用于租用算力。新用户奖励总计3000DBC，等价于20~30小时P102/1080ti算力（价格随时间浮动）
