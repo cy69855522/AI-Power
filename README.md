@@ -7,6 +7,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - `🍳 注意：下面的教程都是有图片的，如果`**`看不到Github的图片`**`说明你的网络配置有问题，请参考`[这篇博客](https://blog.csdn.net/qq_38232598/article/details/91346392)`修复一下~`
 - [📕 CSDN介绍文](https://blog.csdn.net/qq_34361099/article/details/105440223) | [📺 bilibili视频介绍及租用演示](https://www.bilibili.com/video/BV1QK411V7nv) | [📮 知乎介绍文](https://zhuanlan.zhihu.com/p/128161051)
 - [✨ **新用户注册与奖励领取流程，戳这里~**](#-注册与新用户奖励)
+- 注意：如果数据占用空间超过可用硬盘空间，容器将**无法重启启动**，请注意不要产生过多文件占满服务器空间！如遇此问题，需要找回文件请联系技术管理员。
 
 ## 🎉 长期福利活动
 - 注：DBC指算力积分，可用于租用算力。新用户奖励总计3000DBC，等价于20~30小时P102/1080ti算力（价格随时间浮动）
@@ -52,7 +53,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   - [如何收费？](#-如何收费)
 - [💫 宣传参考图](#-宣传参考图)
 # 🕹 管理员介绍
-- 宣传管理员（微信号：DBC-Lee，微信昵称：DBC / QQ号：191279367，Q群昵称：宣传管理）：负责发放DBC奖励
+- 宣传管理员（微信号：DBC-Lee，微信昵称：DBC / QQ号：191279367，Q群昵称：宣传管理）：负责发放DBC奖励、故障赔付
 - 技术管理员（微信号：fengbs600220，微信昵称：deepbrainfeng / QQ号：313785443，Q群昵称：技术管理）：负责技术售后
 
 # ✨ 注册与新用户奖励
