@@ -22,7 +22,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 7. 参与[B站推广视频](https://www.bilibili.com/video/BV1QK411V7nv)点赞与评论可获得💎1000DBC
 8. 参与[知乎推广文章](https://zhuanlan.zhihu.com/p/128161051)点赞与评论可获得💎1000DBC
 9. 参与[YouTube推广视频](https://www.youtube.com/watch?v=zMdAmQf4iuc)点赞与评论可获得💎2000DBC，墙内用户可能无法访问
-10. 长租服务器可以获得👑DBC返还
+10. 500人以上的深度学习群宣传奖励💎1000DBC
 
 ## 🌈 七月限时福利活动
 - ⏱ 活动时间：2020年7月6号上午10点-7月13号晚上22点
