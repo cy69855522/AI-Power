@@ -22,7 +22,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 7. 参与[B站推广视频](https://www.bilibili.com/video/BV1QK411V7nv)点赞与评论可获得💎1000DBC
 8. 参与[知乎推广文章](https://zhuanlan.zhihu.com/p/128161051)点赞与评论可获得💎1000DBC
 9. 参与[YouTube推广视频](https://www.youtube.com/watch?v=zMdAmQf4iuc)点赞与评论可获得💎2000DBC，墙内用户可能无法访问
-10. 500人以上的深度学习群宣传奖励💎1000DBC
+10. 在500人以上的深度学习群宣传平台奖励💎1000DBC
 
 ## ⛱ 8月感恩回馈活动
 1. 动期间使用长租功能（按月、季度），并且不退租，除了享受平台上标示的折扣，官方额外再补贴👑（5%）；
