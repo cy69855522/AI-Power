@@ -4,7 +4,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - 微信群：请联系微信号`ly18597591102`，说明 学校/单位+专业 加群
 - 微信公众号：`aipowergpu`，[🖼二维码](resource/公众号.jpg)
 - 如有疑问欢迎发issue，或在群内讨论
-- `🍳 注意：下面的教程都是有图片的，如果`**`看不到Github的图片`**`说明你的网络配置有问题，请参考`[这篇博客](https://blog.csdn.net/qq_38232598/article/details/91346392)`修复一下~`
+- `🍳 注意：下面的教程都是有图片的，如果`**`看不到Github的图片`**`说明你的网络配置有问题，请参考`[这个教程](https://zhuanlan.zhihu.com/p/107196957)`修复一下~`
 - [📕 CSDN介绍文](https://blog.csdn.net/qq_34361099/article/details/105440223) | [📺 bilibili视频介绍及租用演示](https://www.bilibili.com/video/BV1QK411V7nv) | [📮 知乎介绍文](https://zhuanlan.zhihu.com/p/128161051)
 - [✨ **新用户注册与奖励领取流程，戳这里~**](#-注册与新用户奖励)
 - 注意事项：
@@ -56,7 +56,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
 - 技术管理员（微信号：fengbs600220，微信昵称：deepbrainfeng / QQ号：313785443，Q群昵称：技术管理）：负责技术售后
 
 # ✨ 注册与新用户奖励
-**`注意：下面的教程都是有图片的，如果看不到说明你的网络配置有问题，请参考`[这篇博客](https://blog.csdn.net/qq_38232598/article/details/91346392)`修复`**
+**`注意：下面的教程都是有图片的，如果看不到说明你的网络配置有问题，请参考`[这个教程](https://zhuanlan.zhihu.com/p/107196957)`修复下`**
 1. **用PC端打开[`🚀AI动力`](https://www.aipower.xyz)网站 [www.aipower.xyz](https://www.aipower.xyz)**
 2. 点击“开始租用GPU”
 - ![](resource/r1.png)
@@ -104,6 +104,7 @@ AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](RE
   - 加密文件登录：选择注册时保存的加密文件并输入密码即可
   - 私钥登录：输入私钥即可
 # 📃 使用方法
+**`注意：下面的教程都是有图片的，如果看不到说明你的网络配置有问题，请参考`[这个教程](https://zhuanlan.zhihu.com/p/107196957)`修复下`**
 1. 下载ssh工具`MobaXterm`，链接：[https://share.weiyun.com/5uXo25l](https://share.weiyun.com/5uXo25l) 密码：6ara6j
 2. 打开🚀`AI Power`网站，点击“机器列表”，等待10秒可用机器列表会先显示出来，然后选择合适的服务器试用或租用。建议一次使用多设置一点时间，时间一到，系统会自动关闭服务器，如果任务提前跑完可以到“我的机器列表”里点击退租，剩下时长会按DBC自动返还到账户里
 - ![](resource/r14.png)
