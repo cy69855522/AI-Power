@@ -15,6 +15,13 @@
 5. If you invite 10 new users, there will be an additional 🎼Bluetooth speaker.
 6. User can get 💎2000 DBC by thumbing up and commenting on the [YouTube video](https://www.youtube.com/watch?v=zMdAmQf4iuc).
 
+## 🌕 October Activity
+1. If the user uses the long-term lease function (monthly, quarterly) during the event, and does not cancel the lease. In addition to enjoying the discounts marked on the platform, users can also receive additional subsidies (5%);
+2. Inviting a real GPU user (competition users, graduate students first) during the activity can get 4000DBC, and each user can invite up to 10 people (40,000DBC). Cheating will result in disqualification; As long as the cumulative number of invitations reaches 5, you can get a T-shirt. 10 people, one Bluetooth speaker;
+3. New users can get free 2500 DBC, and if the usage reaches 2500 DBC in the first week, you can get an additional 2500 DBC. (Double the international user rewards)
+4. Promote in Moments or Qzone (at least 24 hours + 10 likes), each rewards 2500DBC; Artificial intelligence related QQ groups, WeChat groups (more than 200 people, the number is not limited if the group is a class group), each rewards 500DBC; Zhihu , Bilibili, etc. Like and comment: 1000DBC​;
+5. ⏳ Time：2020 10.10 10:00 - 10.17 22:00.
+
 # Catalogue
 - [🕹 Administrators](#-Administrators)
 - [✨ Registration with Rewards](#-Registration-with-Rewards)
