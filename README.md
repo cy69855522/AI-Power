@@ -1,5 +1,6 @@
 # 🛸 AI-Power
 AI动力(AI Power) GPU云平台使用指南，[EN: Switch to English version](README-en.md)
+- **重要提示：支付宝充值页面正在修复中，暂时请通过火币等平台购买DBC/GAS，DBC和GAS共享同一个地址！**
 - QQ群:`811516112`，[🖼二维码](resource/AI动力-GPU云平台群聊二维码.png)，（注意：这几天广告号猖獗，加Q群时**请填写您的学校和专业**，答非所问可能会被视作广告号，造成不便十分抱歉。）
 - 微信群：请联系微信号`ly18597591102`，说明 学校/单位+专业 加群
 - 微信公众号：`aipowergpu`，[🖼二维码](resource/公众号.jpg)
