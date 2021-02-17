@@ -8,8 +8,8 @@
 
 ## 🎉 Regular Activities
 - Tip: DBC is integral and can be used to rent GPUs
-1. New users can get free 💎1000 DBC, and if the usage reaches 1000 DBC in first week, you can get an additional 💎2000 DBC, totally equivalent to 20 ~ 30 hours P102/1080ti (price floating over time). For registration and receiving process, please refer to the following chapters. (**Double** the international user rewards, please contact group manager)
-2. User can get 💎1000 DBC by inviting a new user, and if the usage of new user reaches 1000 DBC in first week, you can get an additional 💎2000 DBC. (**Double** the international user rewards, please contact group manager)
+1. New users can get free 💎500 DBC, and if the usage reaches 500 DBC in first week, you can get an additional 💎500 DBC, total 💎1000 DBC (price floating over time). For registration and receiving process, please refer to the following chapters. (**Double** the international user rewards, please contact group manager)
+2. User can get 💎500 DBC by inviting a new user, and if the usage of new user reaches 500 DBC in first week, you can get an additional 💎500 DBC. (**Double** the international user rewards, please contact group manager)
 3. User can get 💎2400 DBC by releasing a piece of news in your Moments or any other sharing platforms and getting 10 likes.
 4. User can get 💎2000 DBC by posting a WeChat official account article and getting a reading volume of 100.
 5. If you invite 10 new users, there will be an additional 🎼Bluetooth speaker.
