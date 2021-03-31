@@ -8,12 +8,8 @@
 
 ## 🎉 Regular Activities
 - Tip: DBC is integral and can be used to rent GPUs
-1. New users can get free 💎500 DBC, and if the usage reaches 500 DBC in first week, you can get an additional 💎500 DBC, total 💎1000 DBC (price floating over time). For registration and receiving process, please refer to the following chapters. (**Double** the international user rewards, please contact group manager)
-2. User can get 💎500 DBC by inviting a new user, and if the usage of new user reaches 500 DBC in first week, you can get an additional 💎500 DBC. (**Double** the international user rewards, please contact group manager)
-3. User can get 💎2400 DBC by releasing a piece of news in your Moments or any other sharing platforms and getting 10 likes.
-4. User can get 💎2000 DBC by posting a WeChat official account article and getting a reading volume of 100.
-5. If you invite 10 new users, there will be an additional 🎼Bluetooth speaker.
-6. User can get 💎2000 DBC by thumbing up and commenting on the [YouTube video](https://www.youtube.com/watch?v=zMdAmQf4iuc).
+1. New users can get free 💎300 DBC. For registration and receiving process, please refer to the following chapters. (**Double** the international user rewards, please contact group manager)
+2. User can get 💎200 DBC by inviting a new user. (**Double** the international user rewards, please contact group manager)
 
 # Catalogue
 - [🕹 Administrators](#-Administrators)
@@ -76,7 +72,6 @@
 - ![](resource/en/e16.png)
 12. The administrator will deal with it after seeing it. Normally within one day, please wait
 13. After obtaining DBC, please refer to [📃 Rent](#-Rent). On the server, you can execute 'python3' command to run script, and 'pip3' to install library
-14. If your DBC usage for the first week is no less than 1000, you can send the order and balance screenshots to the group and @dbc to get more free DBC
 # 🗝 Login
 - Two method：
   - Encrypted file login: select the encrypted file saved when registering and enter the password
